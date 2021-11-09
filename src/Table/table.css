@@ -1,0 +1,28 @@
+label{
+    text-shadow: 2px 5px 10px lightsalmon;
+    font-size: 30px;
+    font-weight: bolder;
+    color: darkviolet
+}
+button{
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    background-color: lightgreen;
+}
+button:hover{
+    background-color: green;
+}
+
+input:focus{
+    border:3px solid greenyellow;
+    background-color: lightgreen;
+}
+
+table{
+    background-color: lightslategray;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}

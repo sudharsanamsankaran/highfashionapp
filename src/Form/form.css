@@ -1,0 +1,42 @@
+.tt{
+    border-color: mediumaquamarine;
+    background-color: mediumslateblue;
+}
+
+.th{
+background-color: mintcream;
+
+}
+
+label{
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+input:focus{
+border-color: limegreen;
+background-color: lightgreen;
+}
+
+.butn1{
+    position: absolute;
+    left: 40%;
+}
+
+form{
+    -webkit-appearance: none;
+    border: 1px solid gray;
+  padding: 0.5rem;
+  width: 100%;
+  max-width: 100%;
+  background: #f0f0f0;
+
+}
+
+.tt{
+    background-color: lime;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+

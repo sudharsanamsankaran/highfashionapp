@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+}
+
+
+* {
+  box-sizing: border-box;
+  background-color: lightskyblue;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+table {
+  border: 1px solid black;
+}
+
+.uibuttonblue{
+  background-color: lightgreen;
+  color: darkred;
+  padding: auto;
+}
+
+th,td {
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+th span {
+  margin-right: 1rem;
+}
+.field{
+  color: darkblue;
+  background-color: aquamarine;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.field:focus{
+  background-color: lightgreen;
+}
+
+input {
+  -webkit-appearance: none;
+  border: 1px solid gray;
+  padding: 0.5rem;
+  width: 100%;
+  max-width: 100%;
+  background: #f0f0f0;
+}
+
+.pagination {
+  margin-top: 0.25rem;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  padding: 0.5rem;
+}
+
+
+.container{
+  background-color:cornflowerblue;
+  border-radius: 30px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.flex-row{
+  border: 3px solid lightsalmon;
+}
+
+h1{
+  color: blueviolet;
+  text-shadow: 4px 10px 20px lightgreen;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 100px;
+}
+
+h2{
+  text-align: center;
+  color: darkorange;
+  text-shadow: 3px 6px 15px lightskyblue;
+  background-color: mediumaquamarine;
+  border: 3px solid brown;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form{
+  width:fit-content;
+  margin-right: auto;
+  margin-left: auto;
+}
